@@ -15,7 +15,7 @@ O **TechNews Today** é uma aplicação web criada para centralizar as principai
 ### ✨ Funcionalidades
 
 **Cabeçalho Fixo (Glassmorphism):** Design elegante com efeito fosco e gradiente no título.
-**Destaque de Artigos:** Seção para publicação de notícias com elemento retrátil (<details>) para expandir a leitura.
+**Destaque de Artigos:** Seção para publicação de notícias com elemento retrátil (<details> para expandir a leitura.
 **Mídia Integrada:** Bloco dedicado a vídeos incorporados do YouTube.
 **Formulário de Newsletter:** Permite inscrição com seletores de interesse e caixa de confirmação de termos.
 **Layout Responsivo:** Adaptação dinâmica do grid para dispositivos móveis e telas maiores.
